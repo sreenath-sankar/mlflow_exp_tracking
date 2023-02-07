@@ -1,0 +1,15 @@
+artifact_uri: file:///home/sreenath/Github/mlflow_exp_tracking/mlruns/753929297789527686/c4e5ec3c17984f3199c44f869a2e25bf/artifacts
+end_time: 1674544643116
+entry_point_name: ''
+experiment_id: '753929297789527686'
+lifecycle_stage: active
+run_id: c4e5ec3c17984f3199c44f869a2e25bf
+run_name: hyperparameter_run_7
+run_uuid: c4e5ec3c17984f3199c44f869a2e25bf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674544641075
+status: 3
+tags: []
+user_id: sreenath

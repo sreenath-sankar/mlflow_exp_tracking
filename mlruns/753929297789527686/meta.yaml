@@ -1,0 +1,6 @@
+artifact_location: file:///home/sreenath/Github/mlflow_exp_tracking/mlruns/753929297789527686
+creation_time: 1674544616176
+experiment_id: '753929297789527686'
+last_update_time: 1674544616176
+lifecycle_stage: active
+name: loan_status
